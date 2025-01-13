@@ -1,0 +1,8 @@
+#carouselExampleIndicators .carousel-item img {
+    width: 100%;  /* Asegura que la imagen cubra todo el ancho del contenedor */
+    height: 700px;  /* Ajusta la altura de las imágenes */
+}
+
+.fondo1{
+    background-color: rgb(255, 235, 210);
+}
